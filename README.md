@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A full-stack developer as well as a computer engineering student.</h3>
 
-- 🔭 I’m currently working on [Tisho Clone](https://github.com/CAPELLAX02/TishoClone)
+- 🔭 I’m currently working on [Jakarta Persistence API](https://github.com/CAPELLAX02/spring-data-jpa-bouali)
 
-- 🌱 I’m currently learning **Java Spring Boot, Mockito and Redis.**
+- 🌱 I’m currently learning **Java Spring Boot, Spring Data JPA, and PostgreSQL.**
 
 - 👨‍💻 All of my projects are available at [www.dummylinkfornow.com](www.dummylinkfornow.com)
 
