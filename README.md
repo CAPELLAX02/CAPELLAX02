@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [Jakarta Persistence API](https://github.com/CAPELLAX02/spring-data-jpa-bouali)
+- Currently working on [Spring Security](https://github.com/CAPELLAX02/jwt-security)
 
-- Currently learning **Java Spring Boot, Spring Data JPA, and PostgreSQL.**
+- Currently learning **Java Security, Spring Data JPA, and Docker.**
 
 - Reach me via **ahmtatar@gmail.com**
 
