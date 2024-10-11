@@ -3,7 +3,7 @@
 
 - Currently working on [Spring Security](https://github.com/CAPELLAX02/jwt-security)
 
-- Currently learning **Java Security, Spring Data JPA, and Docker.**
+- Currently learning **Spring Data JPA, Spring Security, and Docker.**
 
 - Reach me via **ahmtatar@gmail.com**
 
