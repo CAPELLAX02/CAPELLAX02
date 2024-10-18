@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [Spring Security](https://github.com/CAPELLAX02/jwt-security)
+- Currently working on [Spring Security](https://github.com/CAPELLAX02/book-social-network)
 
 - Currently learning **Spring Data JPA, Spring Security, and Docker.**
 
