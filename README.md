@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [eCommerce backend practices](https://github.com/CAPELLAX02/e-commerce-backend) utilizing Spring Boot.
+- Currently working on [a shopping cart backend project](https://github.com/CAPELLAX02/shopping-cart-backend) utilizing backend best practices and clean code principles.
 
-- Currently learning **Spring Data JPA, Spring Security, and Docker.**
+- Currently learning **Spring Security and clean code principles using MVC structures.**
 
 - Reach me via **ahmtatar@gmail.com**
 
