@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on microservice architecture basics in Java backend environment.
+- Currently working on [my first microservice architected backend project](https://github.com/CAPELLAX02/shopping-cart-backend). 
 
-- Currently learning **Spring Security, Spring Data and Docker.**
+- Currently learning **Spring Cloud** and **Database-per-Service Pattern.**
 
 - Reach me via **ahmtatar@gmail.com**
 
