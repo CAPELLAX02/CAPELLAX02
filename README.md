@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [my first microservice architected backend project](https://github.com/CAPELLAX02/shopping-cart-backend). 
+- Currently working on [my first microservice architected backend project](https://github.com/CAPELLAX02/quiz-app-microservices). 
 
 - Currently learning **Spring Cloud** and **Database-per-Service Pattern.**
 
