@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [my first microservice architectured backend project](https://github.com/CAPELLAX02/quiz-app-microservices). 
+- Currently working on [my first microservice architectured backend project](https://github.com/CAPELLAX02/quiz-app-microservices) utilizes notions like Database-per-Service Pattern, Eureka Discovery Server, and Load Balancing. 
 
-- Currently learning **Spring Cloud** and **Database-per-Service Pattern.**
+- Currently learning **Spring Cloud** and **Eureka Server.**
 
 - Reach me via **ahmtatar@gmail.com**
 
