@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [a chat application](https://github.com/CAPELLAX02/chat-app) utilizes real-time messaging implementation and MongoDB integration with Spring Boot. 
+- Currently working on [a grocery shop backend project](https://github.com/CAPELLAX02/grocery-app-backend) as a template project for frontend, IOS, and Android developers to utilize. 
 
-- Currently learning **Websocket, Spring Data MongoDB, Spring Cloud,** and **Eureka Server.**
+- Currently learning **Spring Data MongoDB, Spring Cloud,** and **Eureka Server.**
 
 - Reach me via **ahmtatar@gmail.com**
 
