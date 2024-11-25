@@ -1,9 +1,9 @@
 <h1 align="center">Ahmet ATAR.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [a grocery shop backend project](https://github.com/CAPELLAX02/grocery-app-backend) using Spring Boot as a template for frontend, IOS, and Android developers to utilize. 
+- Currently working on [a microservice architectured e-commerce backend](https://github.com/CAPELLAX02/ecommerce-microservices-bouali) in the guidance of the instructor [Bouali Ali](https://github.com/ali-bouali). 
 
-- Currently learning **Spring Data MongoDB, Spring Cloud,** and **Eureka Server.**
+- Currently learning **Spring Cloud, Eureka Server & Client, Keycloak** and **Apache Kafka.**
 
 - Reach me via **ahmetatar002@gmail.com**
 
