@@ -1,7 +1,7 @@
 <h1 align="center">Ahmet ATAR.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on [a microservice architectured e-commerce backend](https://github.com/CAPELLAX02/ecommerce-microservices-bouali) in the guidance of the instructor [Bouali Ali](https://github.com/ali-bouali). 
+- Currently working on [whatsapp simplified backend clone](https://github.com/CAPELLAX02/whatsapp-backend-clone) utilizing clean code principles and websocket notion. 
 
 - Currently learning **Spring Cloud, Eureka Server & Client, Keycloak** and **Apache Kafka.**
 
