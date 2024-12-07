@@ -3,7 +3,7 @@
 
 - Currently working on [a banking system backend](https://github.com/CAPELLAX02/banking-system) utilizing microservice architecture and domain-driven design principles. 
 
-- Currently learning **Domain-Driven Design (DDD), Keycloak** and **RabbitMQ.**
+- Currently learning **Domain-Driven Design (DDD), Keycloak, Apache Kafka** and **RabbitMQ.**
 
 - Reach me via **ahmetatar002@gmail.com**
 
