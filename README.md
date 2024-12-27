@@ -1,7 +1,7 @@
 <h1 align="center">Ahmet ATAR.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-- Currently working on a banking system backend project named [MicroBank](https://github.com/CAPELLAX02/banking-system) utilizing microservice architecture and domain-driven design principles. 
+- Currently working on  [MicroBank](https://github.com/CAPELLAX02/MicroBank), a backend project utilizes event-driven microservice architecture. 
 
 - Currently learning **Spring Cloud, Keycloak,** and **RabbitMQ.**
 
