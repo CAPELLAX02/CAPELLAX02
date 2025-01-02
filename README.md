@@ -3,7 +3,7 @@
 
 - Currently working on  [MicroBank](https://github.com/CAPELLAX02/MicroBank), a backend project utilizes event-driven microservice architecture. 
 
-- Currently learning **Spring Cloud, Keycloak,** and **RabbitMQ.**
+- Currently learning **Spring Cloud, Keycloak, RabbitMQ** and **Unit/Integration Tests.**
 
 - Reach me via **ahmetatar002@gmail.com**
 
