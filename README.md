@@ -10,10 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=capellax02&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=capellax02&theme=onedark" alt="GitHub Trophies" />
-</p>
-
 ### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/atarahmet/" target="blank">
