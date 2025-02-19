@@ -2,8 +2,8 @@
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
 **About**
-- Currently working on  [MicroBank](https://github.com/CAPELLAX02/MicroBank), a backend project that utilizes event-driven microservice architecture.  
-- Currently learning **Spring Cloud, Keycloak, RabbitMQ** and **Unit/Integration Tests.**  
+- Currently working on [X API](https://github.com/CAPELLAX02/X-API), a backend project that .  
+- Currently acquiring skills in **System Design Concepts** and **Clean Code Practices.**  
 - Reach me via **ahmetatar002@gmail.com**  
 
 <p align="center">
