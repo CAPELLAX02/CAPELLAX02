@@ -2,7 +2,7 @@
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
 **About**
-- Currently working on [X API](https://github.com/CAPELLAX02/X-API), a social media backend project where I attempt to reverse engineer the backend of the FNA Twitter application
+- Currently working on [X API](https://github.com/CAPELLAX02/X-API), a comprehensive backend project for a social media application where I attempt to reverse engineer the backend of the FNA Twitter. I want to push the boundaries of the monolithic server design in this project.
 - Currently acquiring skills in **System Design Concepts** and **Clean Code Practices.**  
 - Reach me via **ahmetatar002@gmail.com**  
 
