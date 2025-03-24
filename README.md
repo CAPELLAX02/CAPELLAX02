@@ -1,14 +1,10 @@
 <h1 align="center">Ahmet ATAR.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
-**About**
+### About
 - Currently working on [X API](https://github.com/CAPELLAX02/X-API), a comprehensive backend project for a social media application where I attempt to reverse engineer the backend of the FNA Twitter. I want to push the boundaries of the monolithic server design in this project.
 - Currently acquiring skills in **System Design Concepts** and **Clean Code Practices.**  
 - Reach me via **ahmetatar002@gmail.com**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capellax02&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 ### Connect with Me
 <p align="center">
