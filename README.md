@@ -1,4 +1,4 @@
-<h1 align="center">Ahmet ATAR.</h1>
+<h1 align="center">Ahmet Atar.</h1>
 <h3 align="center">A Backend Developer as well as a Computer Engineering Student.</h3>
 
 ### About
