@@ -4,7 +4,7 @@
 ### About
 - Currently working on [Platform X](https://github.com/CAPELLAX02/X-API), a comprehensive backend project for a social media application where I attempt to reverse engineer the server of the Platform X, FNA Twitter. I want to push the boundaries of the monolithic server design in this project.
 - Currently acquiring skills in **System Design Concepts** and **Clean Code Practices.**  
-- Reach me via **ahmetatar002@gmail.com**  
+- Reach me via **ahmet.atar@intechreate.com**  
 
 ### Connect with Me
 <p align="center">
