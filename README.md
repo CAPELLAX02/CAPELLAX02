@@ -2,8 +2,8 @@
 <h3 align="center">A Backend Developer and a Computer Engineering Student.</h3>
 
 ### About
-- Currently working on [Platform X API](https://github.com/CAPELLAX02/X-API), a comprehensive backend project for a social media application where I attempt to reverse engineer the server of the Platform X, FNA Twitter. I want to push the boundaries of the monolithic server design in this project.
-- Currently acquiring skills in **System Design Concepts, Advanced JWT Practices,** and **Clean UI Development.**  
+- Currently working at [OBSS](https://obss.tech) as a Software Engineer Intern, where I am developing a full-stack project using **Java** and **TypeScript**.
+- Presently acquiring skills in **System Design Concepts, Advanced JWT Practices,** and **Clean UI Development.**  
 - Reach me via **ahmet.atar@intechreate.com**  
 
 ### Connect with Me
