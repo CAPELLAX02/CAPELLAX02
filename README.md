@@ -2,8 +2,7 @@
 <h3 align="center">A Backend Developer and a Computer Engineering Student.</h3>
 
 ### About
-- Currently working at [OBSS](https://obss.tech) as a Software Engineer Intern, where I am developing a full-stack project using **Java** and **TypeScript**.
-- Presently acquiring skills in **System Design Concepts, Advanced JWT Practices,** and **Clean UI Development.**  
+- Currently acquiring skills in **System Design Concepts, Advanced IAM Practices,** and **Clean UI Development.**  
 - Reach me via **ahmet.atar@intechreate.com**  
 
 ### Connect with Me
