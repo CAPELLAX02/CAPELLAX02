@@ -3,7 +3,7 @@
 
 ### About
 - Currently acquiring skills in **System Design Concepts, Advanced IAM Practices,** and **Clean UI Development.**  
-- Reach me via **ahmet.atar@intechreate.com**  
+- Reach me via **ahmetatar002@gmail.com**  
 
 ### Connect with Me
 <p align="center">
