@@ -1,8 +1,7 @@
 <h1 align="center">Ahmet Atar.</h1>
-<h3 align="center">A Backend Developer and a Computer Engineering Student.</h3>
+<h3 align="center">Senior Computer Engineering Undergraduate. Full-Stack Software Engineer.</h3>
 
 ### About
-- Currently acquiring skills in **System Design Concepts, Advanced IAM Practices,** and **Clean UI Development.**  
 - Reach me via **ahmetatar002@gmail.com**  
 
 ### Connect with Me
