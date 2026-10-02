@@ -1,4 +1,4 @@
-<h1 align="center">Ahmet Atar.</h1>
+<h1 align="center">Ahmet ATAR.</h1>
 <h3 align="center">Senior Computer Engineering Student @ Ankara University. Full-Stack Software Engineer @ TUBITAK.</h3>
 
 Reach me via **ahmetatar002@gmail.com**  
